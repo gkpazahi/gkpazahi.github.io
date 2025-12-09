@@ -16,4 +16,4 @@ Python | Django/Flask | JavaScript | SQL | Git
 
 ### Contact
 📧 gkpazahi@gmail.com
-🔗 www.linkedin/in/gkpazahi | [Resume](link-to-resume.pdf)
+🔗 linkedin/in/gkpazahi | [Resume](link-to-resume.pdf)
