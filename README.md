@@ -6,7 +6,7 @@ Gao Kpazahi Software Engineer portfolio
 ## Software Developer
 
 ### Projects
-- **[PDF Ebook Reader](https://github.com/gkpazahi/pdf-reader)** - Python/Tkinter desktop app
+- **[Email Validator App](https://github.com/gkpazahi/Email-validator-App)** - Python desktop app
 - **[Weather Dashboard](https://github.com/gkpazahi/weather-dashboard)** - API integrated desktop app
 - **[Password Security Tool](https://github.com/gkpazahi/password-checker)** - API-integrated desktop app
 - **[Breakout Game](https://github.com/gkpazahi/password-checker)** - Python/pygame desktop app
